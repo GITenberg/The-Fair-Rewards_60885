@@ -1,0 +1,26 @@
+_repo: The-Fair-Rewards_60885
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beer, Thomas
+    birthdate: 1889
+    deathdate: 1940
+    gutenberg_agent_id: '34796'
+    url: http://www.gutenberg.org/2009/agents/34796
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Beer
+description: ''
+gutenberg_issued: '2019-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60885'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Theater -- Fiction'
+- GITenberg
+title: The Fair Rewards
+url: http://www.gutenberg.org/ebooks/60885
